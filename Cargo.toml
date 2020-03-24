@@ -1,0 +1,8 @@
+[package]
+name = "architus"
+version = "0.0.1"
+authors = ["Jonathan Buchanan <johnyburd@gatech.edu>"]
+edition = "2018"
+
+[dependencies]
+serenity = "0.8"
